@@ -1,0 +1,1 @@
+{"properties":{"roleName":"WACAdminLogin","description":"","assignableScopes":["/subscriptions/<EnterSubscriptonHere>"],"permissions":[{"actions":[],"notActions":[],"dataActions":["Microsoft.HybridCompute/machines/WACloginAsAdmin/action"],"notDataActions":[]}]}}
